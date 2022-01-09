@@ -336,7 +336,7 @@ return var
 end 
 function Rutba(user_id,chat_id)
 if tonumber(user_id) == tonumber(1505943315) then  
-var =  'مالك السورس'
+var =  'مالك التلي يبني'
 elseif tonumber(user_id) == tonumber(1785825545) then
 var = 'عضو'
 elseif tonumber(user_id) == tonumber(SUDO) then
